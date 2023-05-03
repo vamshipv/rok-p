@@ -1,0 +1,1 @@
+- Finding an element by value in a HashSet is O(1). In an ArrayList, it's O(n).
